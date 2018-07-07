@@ -61,7 +61,7 @@
         <item>
          <widget class="QLabel" name="label_2">
           <property name="text">
-           <string>流畅链接：</string>
+           <string>标清链接：</string>
           </property>
          </widget>
         </item>
